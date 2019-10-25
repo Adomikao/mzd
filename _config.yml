@@ -9,9 +9,9 @@ author:
 
 markdown: kramdown
 permalink: none
-# baseurl: /adomikao
-img_url: /images
-font_url: /fonts
+# baseurl: /mzd
+img_url: /mzd/images
+font_url: /mzd/fonts
 
 collections:
   characters:
