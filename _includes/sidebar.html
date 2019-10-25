@@ -1,0 +1,11 @@
+<div id="sidebar">
+  <ul>
+  {% for node in pages_list %}
+    {% if category_url == node.url %}
+      <a href="{{ node.url | relative_url }}" class="navactive">{{ node.title }}</a>
+    {% else %}
+      <li><a href="{{ node.url | relative_url }}">{{ node.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>

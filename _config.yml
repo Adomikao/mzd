@@ -1,0 +1,18 @@
+# -*- mode: conf; -*-
+
+top-title: 毛泽东博览
+
+author:
+  name: adomikao
+  email: adomikao@gmail.com
+  github: adomikao
+
+markdown: kramdown
+permalink: none
+# baseurl: /adomikao
+img_url: /images
+font_url: /fonts
+
+collections:
+  characters:
+    output: true
