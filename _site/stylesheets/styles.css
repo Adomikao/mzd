@@ -139,7 +139,7 @@ hr { border: 0; outline: none; height: 3px; background: transparent url("/mzd/im
 
 dt { color: #F0E7D5; font-family: 'Droid Sans', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: 400; }
 
-#header { z-index: 100; left: 0; top: 0px; height: 60px; width: 100%; position: fixed; background: url(/mzd/images/nav-bg.gif) #353535; border-bottom: 4px solid #434343; -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); }
+#header { z-index: 100; left: 0; top: 0px; height: 60px; width: 100%; position: fixed; background: url(/mzd/images/nav-bg.gif) #353535; -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); -o-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25); }
 
 #header .title { color: #858585; float: left; font-size: 35px; font-weight: 550; padding: 2px 20px; }
 
