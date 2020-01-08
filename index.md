@@ -3,7 +3,7 @@ layout: default
 title: "沁园春·雪"
 ---
 
-
+<img src = './images/1.jpg'>
 
 　　　　　　　　北国风光，千里冰封，万里雪飘。
 
