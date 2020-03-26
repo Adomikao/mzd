@@ -2,9 +2,7 @@
 layout: default
 title: "沁园春 · 雪"
 ---
-<div align="center">
-<img src = './images/1.jpg'>
-</div> 
+
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
@@ -32,5 +30,10 @@ title: "沁园春 · 雪"
 　　　　　　　　一代天骄，成吉思汗，只识弯弓射大雕。
 
 　　　　　　　　俱往矣，数风流人物，还看今朝。
+
+
+<div align="center">
+<img src = './images/1.jpg'>
+</div> 
 
 
