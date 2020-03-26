@@ -69,21 +69,21 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 body { padding: 0px 0 20px 0px; margin: 0px; font: 18px/1.5 "华文中宋", "Helvetica Neue", Helvetica, Arial, sans-serif; color: #f0e7d5; font-weight: normal; background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkAgMAAAANjH3HAAAACVBMVEUaGhohISElJSUh9lebAAAB20lEQVRIx4XWuZXDMAwE0C0SAQtggIIYoAAEU+aKOHhYojTrYP2+QfOW/5QIJOih/q8HwF/pb3EX+UPIveYcQGgEHiu9hI+ihEc5Jz5KBIlRRRaJ1JtoSAl5Hw96hLB1/up1tnIXOck5jZQy+3iU2hAOKSH1JvwxHsp+5TLF5MOl1/MQXsVs1miXc+KDbYydyMeUgpPQreZ7fWidbNhkXNJSeAhc6qHmHD8AYovunYyEACWEbyIhNeB9fRrH3hFi0bGPLuEW7xCNaohw1vAlS805nfsrTspclB/hVdoqusg53eH7FWot+wjYpOViX8KbFFKTwlnzvj65P9H/vD0/hibYBGhPwlPO8TmxRsaxsNnrUmUXpNhirlJMPr6Hqq9k5Xn/8iYQHYIuQsWFC6Z87IOxLxHphSY4SpuiU87xJnJr5axfeRd+lnMExXpEWPpuZ1v7qZdNBOjiHzDREHX5fs5Zz9p6X0vVKbKKchlSl5rv+3p//FJ/PYvoKryI8vs+2G9lzRmnEKkh+BU8yDk515jDj/HAswu7CCz6U/Mxb/PnC9N41ndpU4hUU7JGk/C9PmP/M2xZYdvBW2PObyf1IUiIzoHmHW9yTncliYs9A9tVNppdShfgQaTLMf+j3X723tLeHgAAAABJRU5ErkJggg==) !important; background-clip: border-box !important; background-origin: padding-box !important; background-repeat: repeat !important; background-size: auto !important; background-position: left top !important; background-attachment: scroll !important; /* background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #101010), color-stop(100%, #050505)); background: -webkit-linear-gradient(#101010, #050505); background: -moz-linear-gradient(#101010, #050505); background: -o-linear-gradient(#101010, #050505); background: -ms-linear-gradient(#101010, #050505); background: linear-gradient(#101010, #050505); */ }
 
-h1, h2, h3, h4, h5, h6 { color: #e8e8e8; margin: 0 0 10px; font-family: 'Oswald', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; }
+h1, h2, h3, h4, h5, h6 { color: #e8e8e8; margin: 0 0 10px; font-family: '华文中宋', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
-.accent { font-family: 'Oswald'; }
+.accent { font-family: '华文中宋'; }
 
-h1, h2, h3 { font-family: 'Oswald', "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.1; }
+h1, h2, h3 { font-family: '华文中宋', "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.1; }
 
 h1 { font-size: 32px; line-height: 50px; }
 
 h2 { font-size: 24px; }
 
-h3 { font-size: 20px; line-height: 24px; font-family: 'Oswald', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: normal; color: #b6b6b6; }
+h3 { font-size: 20px; line-height: 24px; font-family: '华文中宋', "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-weight: normal; color: #b6b6b6; }
 
-h4, h5, h6 { color: #e8e8e8; font-family: 'Oswald', "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
+h4, h5, h6 { color: #e8e8e8; font-family: '华文中宋', "Helvetica Neue", Helvetica, Arial, sans-serif !important; }
 
 a { color: #DF8744; font-weight: 400; text-decoration: none; }
 
@@ -165,15 +165,15 @@ section { max-width: 650px; padding: 30px 0px 50px 0px; margin: 20px 0; margin-t
 
 section #title { border: 0; outline: none; margin: 0 0 0 0; padding: 0 0 5px 0; }
 
-section #title h1 { font-family: 'Oswald', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 42px; text-align: center; line-height: 28px; padding-bottom: 5px; }
+section #title h1 { font-family: '华文中宋', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 42px; text-align: center; line-height: 28px; padding-bottom: 5px; }
 
-section #title p { color: #d7cfbe; font-family: 'Oswald', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 20px; text-align: center; }
+section #title p { color: #d7cfbe; font-family: '华文中宋', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; font-size: 20px; text-align: center; }
 
 .post-tags, .post-tags a { color: #656565; font-weight: bold; float: right; }
 
 .post-tags a:hover { color: #757575; }
 
-li .heading { font-family: 'Oswald'; font-size: 20px; color: #C17DF1; }
+li .heading { font-family: '华文中宋'; font-size: 20px; color: #C17DF1; }
 
 footer .credits { font-size: 11px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; color: #696969; margin-top: -10px; }
 
